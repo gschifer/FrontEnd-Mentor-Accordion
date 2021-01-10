@@ -1,0 +1,25 @@
+.images {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    width: 391px;
+}
+
+.woman {
+    position: absolute;
+    top: 70.81px;
+    right: 0px;
+}
+
+.pattern {
+    position: absolute;
+    right: 0px;
+    top: -294px;
+
+}
+
+.box {
+    position: absolute;
+    top: 206.13px;
+    left: -93.07px;
+}
