@@ -40,7 +40,7 @@
     }
 
     .pattern {
-        content: url(./images/bg-pattern-mobile.svg);
+        content: url(images/bg-pattern-mobile.svg);
         width: 240px;
         height: 145px;
         left: calc(50% - 240px/2 + 0.5px);
@@ -52,7 +52,7 @@
     }
 
     .woman {
-        content: url(./images/illustration-woman-online-mobile.svg);
+        content: url(images/illustration-woman-online-mobile.svg);
         width: 237px;
         height: 180px;
         left: 30px;
