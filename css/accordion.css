@@ -66,5 +66,6 @@
 }
 
 .active {
-    font-weight: bold;
+    font-weight: 700;
+    color: rgba(30, 31, 54, 1);
 }
